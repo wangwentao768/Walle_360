@@ -10,6 +10,9 @@
 
 当提示渠道写入成功，生成的文件会放在finalDir中，已渠道名+时间命名
 
+# 新增mac app工具
+![tool文件夹中](https://github.com/wangwentao768/Walle_360/blob/master/tool/image.png?raw=true)
+
 # 参考
 
 https://github.com/Meituan-Dianping/walle
